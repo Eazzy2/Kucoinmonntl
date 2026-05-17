@@ -1,0 +1,8 @@
+{
+  "name": "KuCoin Mobile Landing Page",
+  "description": "A highly realistic mobile browser landing page for a cryptocurrency exchange, featuring a modern green-themed UI with trading tools and asset displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
